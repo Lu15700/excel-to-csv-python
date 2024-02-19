@@ -6,4 +6,4 @@ A very simple program to convert an Excel file to a CSV file.
 - Pandas
 
 ## Snippet
-![snippet](https://github.com/Lu15700/excel-to-csv_in_python/assets/102251361/a4dcfc05-569b-456b-b139-7d9be917d212)
+![snippet](https://github.com/Lu15700/excel-to-csv_in_python/assets/102251361/e2cbca63-81a0-4564-b93d-137197e01d6e)
